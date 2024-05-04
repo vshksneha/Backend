@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Chicken Butter Masala",
+        "category": "food",
+        "price": 450
+    },
+    {
+        "title": "Chicken Do-Piyaja",
+        "category": "food",
+        "price": 420
+    },
+    {
+        "title": "Butter Naan",
+        "category": "food",
+        "price": 15
+    },
+    {
+        "title": "Mix Kulcha",
+        "category": "food",
+        "price": 35
+    },
+    {
+        "title": "Mango Lassi",
+        "category": "food",
+        "price": 99
+    },
+    {
+        "title": "Kurta",
+        "category": "cloths",
+        "price": 499
+    },
+    {
+        "title": "T-shirt",
+        "category": "cloths",
+        "price": 399
+    },
+    {
+        "title": "Shirts",
+        "category": "cloths",
+        "price": 899
+    },
+    {
+        "title": "Lower",
+        "category": "cloths",
+        "price": 250
+    },
+    {
+        "title": "Jeans",
+        "category": "cloths",
+        "price": 1499
+    },
+    {
+        "title": "Crop Top",
+        "category": "cloths",
+        "price": 649
+    },
+    {
+        "title": "Skirt",
+        "category": "cloths",
+        "price": 299
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Chicken Butter Masala",
+        "category": "food",
+        "price": "Rs. 450"
+    },
+    {
+        "title": "Chicken Do-Piyaja",
+        "category": "food",
+        "price": "Rs. 420"
+    },
+    {
+        "title": "Butter Naan",
+        "category": "food",
+        "price": "Rs. 15"
+    },
+    {
+        "title": "Mix Kulcha",
+        "category": "food",
+        "price": "Rs. 35"
+    },
+    {
+        "title": "Mango Lassi",
+        "category": "food",
+        "price": "Rs. 99"
+    },
+    {
+        "title": "Kurta",
+        "category": "cloths",
+        "price": "Rs. 499"
+    },
+    {
+        "title": "T-shirt",
+        "category": "cloths",
+        "price": "Rs. 299"
+    },
+    {
+        "title": "Shirts",
+        "category": "cloths",
+        "price": "Rs. 899"
+    },
+    {
+        "title": "Lower",
+        "category": "cloths",
+        "price": "Rs. 250"
+    }
+]
